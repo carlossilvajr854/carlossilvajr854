@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Carlos Oliveira 👋
 
-<!--
-**carlossilvajr854/carlossilvajr854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software focado em construir sistemas escaláveis, resilientes e apaixonado por infraestrutura. Atualmente focado no ecossistema PHP (Laravel) e Vue.js.
 
-Here are some ideas to get you started:
+## 🚀 No que estou trabalhando agora?
+- **ERP para Agências de Viagens:** Um sistema Full-Stack completo (Laravel/Vue) para gestão financeira e automação de reservas.
+- **[Acesse a Demo do Sistema](https://demo.sftour.com.br)** - *Login de Teste:* `teste@teste.com.br` | *Senha:* `12345678`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens/Frameworks:** PHP 8 (Laravel), JavaScript (Vue.js, Tailwind CSS)
+- **Infra & Ops:** Docker, Proxmox, MySQL, Linux (Ubuntu Server)
+- **Workflow:** Git, Integração com IA Generativa para produtividade
+
+## 📫 Como me encontrar
+- **LinkedIn:** [carlos-oliveira-tech](https://www.linkedin.com/in/carlos-oliveira-tech/)
+- **Portfólio Institucional:** [hannahtech.free.nf](http://hannahtech.free.nf)
+- **Localização:** São Paulo, SP 📍
+
+---
+*"Transformando desafios de infraestrutura e código em soluções eficientes."*
