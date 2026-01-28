@@ -1,7 +1,6 @@
 # Olá, eu sou o Carlos Oliveira 👋
 
 Engenheiro de Software focado em construir sistemas escaláveis, resilientes e apaixonado por infraestrutura. Atualmente atuo no ecossistema PHP (Laravel) e Vue.js.
-🎯 Focado em novos desafios em Software Engineering.
 
 ## 🚀 No que estou trabalhando agora?
 - **ERP para Agências de Viagens:** Um sistema Full-Stack completo (Laravel/Vue) para gestão financeira e automação de reservas.
