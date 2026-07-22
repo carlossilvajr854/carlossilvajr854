@@ -5,9 +5,9 @@ Sou profissional de Infraestrutura e Suporte de TI, com experiência em ambiente
 Tenho como objetivo construir soluções confiáveis, seja por meio da infraestrutura, da automação ou do desenvolvimento de software, sempre buscando aprendizado contínuo e evolução profissional.
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens/Frameworks:** PHP 8 (Laravel), JavaScript (Vue.js, Tailwind CSS)
 - **Infraestrutura & Cloud(em evolução):** Docker, Proxmox, MySQL, Linux (Ubuntu Server)
 - **Workflow:** Git, Docker e utilização de IA Generativa para documentação, produtividade e apoio ao desenvolvimento.
+- **Linguagens/Frameworks:** PHP 8 (Laravel), JavaScript (Vue.js, Tailwind CSS)
 
 ## 🚀 Projetos em Destaque
 
