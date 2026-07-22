@@ -13,7 +13,7 @@ Tenho como objetivo construir soluções confiáveis, seja por meio da infraestr
 
 📌 ERP para Agências de Viagens
 
-Sistema Full Stack desenvolvido com Laravel e Vue.js...
+Sistema Full-Stack completo (Laravel/Vue) para gestão financeira e automação de reservas.
 
 🔜 Laboratório de Infraestrutura
 
