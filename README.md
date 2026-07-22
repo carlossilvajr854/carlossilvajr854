@@ -16,11 +16,11 @@ Sistema Full Stack desenvolvido com Laravel e Vue.js...
 
 🔜 Laboratório de Infraestrutura
 Em desenvolvimento...
-Windows Server
-Docker
-GLPI
-Proxmox
-Redes
+- Windows Server
+- Docker
+- GLPI
+- Proxmox
+- Redes
 
 ## 📫 Como me encontrar
 - **LinkedIn:** [carlos-oliveira-tech](https://www.linkedin.com/in/carlos-oliveira-tech/)
